@@ -1,0 +1,1 @@
+print("WarmAlpha's SDL game engine.")
